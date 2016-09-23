@@ -1,4 +1,4 @@
-PImage rainbow;
+ PImage rainbow;
 PImage unicorn;
 
 void setup() {
